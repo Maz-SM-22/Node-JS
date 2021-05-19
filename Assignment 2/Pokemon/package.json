@@ -1,0 +1,14 @@
+{
+  "name": "p0kemon",
+  "version": "1.0.0",
+  "description": "pokemon exercise",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MFS",
+  "license": "ISC",
+  "dependencies": {
+    "pokemon": "^2.0.2"
+  }
+}
